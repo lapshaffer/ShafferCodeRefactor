@@ -53,10 +53,11 @@ a {
 
 /* Setting size of all paragraph elements */
 p {
-    font-size: 16px;
+    font-size: 100%;
+    line-height: 150%;
 }
 
-/* Bakcground image */
+/* Background image */
 .hero {
     height: 800px;
     width: 100%;
@@ -66,7 +67,7 @@ p {
     background-position: center;
 }
 
-/* Settiing images in main body sections to right or left side of section */
+/* Setting images in main body sections to right or left side of section */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -82,6 +83,7 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+    line-height: 150%;
 }
 
 /* Setting display attributes for content in right-hand sidebar */
@@ -146,7 +148,7 @@ p {
     max-width: 150px;
 }
 
-/* Setting font, background color, text color and display properties for content in main body sections */
+/* Setting font, background color, text color and display properties for main body sections and content therein */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -191,16 +193,19 @@ p {
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
+    line-height: 150%;
 }
 
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
+    line-height: 150%;
 }
 
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
+    line-height: 150%;
 }
 
 /* Setting footer display properties */

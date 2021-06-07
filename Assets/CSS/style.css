@@ -69,13 +69,13 @@ p {
 
 .sr-only {
     position: absolute;
-  width: 1px;
-  height: 1px;
-  padding: 0;
-  margin: -1px;
-  overflow: hidden;
-  clip: rect(0, 0, 0, 0);
-  border: 0;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
 }
 
 /* Setting images in main body sections to right or left side of section */
@@ -219,7 +219,7 @@ p {
     line-height: 150%;
 }
 
-/* Setting footer display properties */
+/* Setting footer text and display properties */
 .footer {
     padding: 30px;
     clear: both;

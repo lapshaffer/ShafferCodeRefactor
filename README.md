@@ -30,3 +30,4 @@ THEN I find a concise, descriptive title
 
 ![Horiseon Screenshot](HoriseonMarketingScreenshot.png)
 
+## This project is deployed at lapshaffer.github.io/ShafferHomework01/
